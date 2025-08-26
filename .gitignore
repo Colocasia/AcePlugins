@@ -85,4 +85,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 # Plugins will be managed as submodules
-Plugins/

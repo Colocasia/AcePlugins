@@ -1,0 +1,9 @@
+[submodule "Plugins/Ace.Assets"]
+	path = Plugins/Ace.Assets
+	url = https://github.com/Colocasia/Ace.Assets.git
+[submodule "Plugins/Ace.Psd2UGUI"]
+	path = Plugins/Ace.Psd2UGUI
+	url = https://github.com/Colocasia/Ace.Psd2UGUI.git
+[submodule "Plugins/Ace.UIManager"]
+	path = Plugins/Ace.UIManager
+	url = https://github.com/Colocasia/Ace.UIManager.git
